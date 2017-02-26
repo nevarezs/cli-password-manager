@@ -1,4 +1,4 @@
-# Command-line Password Manager
+# Command-Line Password Manager
 
 ## Disclaimer
 This project was done for a grad school class. While I am making this code public for educational purposes, if you are working on a similar project for a class, you are not authorized to copy code for your project unless it is permitted by the academic integrity code of your school and you include a reference to this project.
